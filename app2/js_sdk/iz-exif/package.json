@@ -1,0 +1,13 @@
+{
+    "id": "iz-exif",
+    "name": "通过一个函数就可以方便的获取图片的exif和iptc信息包含gps地理位置等",
+    "version": "1.0.0",
+    "description": "可以方便的获取图片的exif和iptc信息包含gps地理位置、相机参数参考exif.js",
+    "keywords": [
+        "exif",
+        "照片",
+        "gps",
+        "地理坐标",
+        "经纬度"
+    ]
+}
